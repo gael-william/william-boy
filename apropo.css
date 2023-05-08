@@ -1,0 +1,29 @@
+body{
+    background-image: url(im.jpg);
+    background-size: cover;
+    height: 100%;
+}
+
+.container{
+    text-align: center;
+}
+.trai{
+    width: 20%;
+    height: 5px;
+    background-color: red;
+    margin-left: 40%;
+}
+
+.low{height:max-content;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.8);
+color: white;}
+
+.nav-link{
+    color: white;
+}
+
+
+.footer{background-color: black;
+        margin-bottom:auto;}
+
