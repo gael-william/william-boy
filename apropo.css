@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 body {
     background-image: url(im.jpg);
     background-size: cover;
@@ -36,43 +35,4 @@ body {
 .footer {
     background-color: black;
     margin-bottom: auto;
-=======
-body {
-    background-image: url(im.jpg);
-    background-size: cover;
-    height: 100%;
-}
-
-.container {
-    text-align: center;
-}
-
-.trai {
-    width: 20%;
-    height: 10px;
-    background-color: red;
-    margin-left: 40%;
-    margin-bottom: -17px;
-}
-
-.low {
-    height: max-content;
-    width: 100%;
-    background-color: rgba(0, 0, 0, 0.8);
-    color: white;
-}
-
-.nav-link {
-    color: white;
-}
-
-.navbar-toggler {
-    background-color: white;
-}
-
-
-.footer {
-    background-color: black;
-    margin-bottom: auto;
->>>>>>> 7657499abbef561daee958531e2602c71dbb1573
 }
