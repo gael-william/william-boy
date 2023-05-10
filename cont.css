@@ -4,8 +4,13 @@ body {
     height: 100%;
 }
 
-.container {
-    text-align: center;
+.cow {
+    height: max-content;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.8);
+
+    /* color: white; */
+    /* position: fixed; */
 }
 
 .trai {
@@ -16,23 +21,25 @@ body {
     margin-bottom: -17px;
 }
 
-.low {
-    height: max-content;
-    width: 100%;
-    background-color: rgba(0, 0, 0, 0.8);
+.container {
+    text-align: center;
+}
+
+.container {
+    text-align: center;
     color: white;
 }
 
+hr {
+    background-color: red;
+    width: 100%;
+    height: 3px;
+    align-items: center;
+
+}
 .nav-link {
     color: white;
 }
-
 .navbar-toggler {
     background-color: white;
-}
-
-
-.footer {
-    background-color: black;
-    margin-bottom: auto;
 }
