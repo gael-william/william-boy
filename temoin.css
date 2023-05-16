@@ -34,8 +34,9 @@ hr{background-color: red;
  }
  .card-text{
     color: white;
-    font-size: 45px;
+    font-size: 35px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
 
  }
  .nav-link {

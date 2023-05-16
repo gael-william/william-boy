@@ -9,6 +9,11 @@ a{
 
 }
 
+.navbar-toggler{color: white;
+    border: solid 1px white;
+    background-color: white;
+   }
+
 .trai {
     width: 20%;
     height: 10px;
@@ -37,11 +42,7 @@ hr {
 .footer{background-color: black;
     margin-bottom:auto;}
 
-/* .traiit{ */
-    /* height: 250px; */
-    /* width: 6px; */
-    /* background-color: red; */
-/* } */
+
 .card-text{
     font-size: 30px;
     color: white;
